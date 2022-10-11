@@ -1,0 +1,30 @@
+<template>
+  <div>
+    <div
+      class="h-36 w-36 bg-white rounded-full flex items-center justify-center"
+    >
+      <div
+        class="
+          rounded-full
+          h-12
+          w-12
+          bg-pink-600
+          z-40
+          absolute
+          animate-circle-left
+        "
+      ></div>
+      <div
+        class="
+          rounded-full
+          h-12
+          w-12
+          bg-pink-300
+          z-40
+          absolute
+          animate-circle-right
+        "
+      ></div>
+    </div>
+  </div>
+</template>
