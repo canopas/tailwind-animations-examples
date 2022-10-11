@@ -1,0 +1,34 @@
+<template>
+  <div>
+    <div
+      class="
+        flex
+        justify-center
+        items-center
+        h-36
+        w-36
+        bg-white
+        border-2 border-black
+        rounded-full
+        before:absolute
+        before:w-2
+        before:h-16
+        before:bg-pink-600
+        before:rounded
+        before:top-2/4
+        before:origin-top
+        before:animate-spin-fast
+        after:absolute
+        after:w-2
+        after:h-12
+        after:bg-black
+        after:rounded
+        after:top-2/4
+        after:origin-top
+        after:animate-spin-slow
+      "
+    >
+      <div class="rounded-full h-4 w-4 bg-black z-40"></div>
+    </div>
+  </div>
+</template>
