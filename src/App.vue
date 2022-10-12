@@ -35,6 +35,6 @@ import Pacman from "./components/Pacman.vue";
 
 <style scoped lang="postcss">
 .wrapper {
-  @apply relative flex gap-2 h-64 w-64 bg-pink-100 items-center justify-center m-4;
+  @apply relative flex gap-4 h-64 w-64 bg-pink-100 items-center justify-center m-4;
 }
 </style>

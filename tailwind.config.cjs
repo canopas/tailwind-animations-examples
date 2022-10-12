@@ -195,7 +195,7 @@ module.exports = {
 
         // arc rotation
         "zoom-in": 'zoom 1.5s ease-out infinite', // zoom in
-        "spin": 'spin 1s linear infinite', // zoom in
+        "spin": 'spin 2s linear infinite', // zoom in
 
         //clock
         "spin-fast": 'spin 2s linear infinite', // clock spin fast
