@@ -4,7 +4,7 @@ This repository contains different animations implemented using tailwind css.
 
 We keep building complex animations using tailwind css. Our goal is to build ready-to-use animation components.
 
-## 🚀  Showcase
+## 🚀  [Showcase](https://play.tailwindcss.com/6MLUVcHDy0)
 
 <table>
   <tr>
