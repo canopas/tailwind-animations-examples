@@ -4,7 +4,7 @@ This repository contains different animations implemented using tailwind css.
 
 We keep building complex animations using tailwind css. Our goal is to build ready-to-use animation components.
 
-## 🚀  [Showcase](https://play.tailwindcss.com/6MLUVcHDy0)
+## 🚀 [Showcase](https://play.tailwindcss.com/6MLUVcHDy0)
 
 <table>
   <tr>
@@ -75,21 +75,50 @@ We keep building complex animations using tailwind css. Our goal is to build rea
       Wave
     </td>
   </tr>
-   <tr>
+  <tr>
     <td align="center">
       <img src="https://github.com/canopas/tailwind-animations/blob/main/src/assets/images/twin-circle.gif" width="250px" height="250px">
       <br />
       Twin Circle
     </td>
-    </tr>
+    <td align="center">
+      <img src="https://github.com/canopas/tailwind-animations/blob/main/src/assets/images/double-bouncy-circles.gif" width="250px" height="250px">
+      <br />
+      Double Bouncy Circles
+    </td>
+    <td align="center">
+      <img src="https://github.com/canopas/tailwind-animations/blob/main/src/assets/images/bouncy-circles.gif" width="250px" height="250px">
+      <br />
+      Bouncy Circles
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/canopas/tailwind-animations/blob/main/src/assets/images/dotted-square.gif" width="250px" height="250px">
+      <br />
+      Dotted Square
+    </td>
+    <td align="center">
+      <img src="https://github.com/canopas/tailwind-animations/blob/main/src/assets/images/arrow-forward.gif" width="250px" height="250px">
+      <br />
+      Forwarding Arrow
+    </td>
+    <td align="center">
+      <img src="https://github.com/canopas/tailwind-animations/blob/main/src/assets/images/rotating-squares.gif" width="250px" height="250px">
+      <br />
+      Double Squares
+    </td>
+  </tr>
 </table>
 
 # Bugs and Feedback
+
 For bugs, questions and discussions please use the [Github Issues](https://github.com/canopas/tailwind-animations/issues).
 
 # Credits
+
 This repository owned and maintained by the [Canopas team](https://canopas.com/). You can follow them on Twitter at [@canopassoftware](https://twitter.com/canopassoftware) for project updates and releases.
 
- # Licence
+# Licence
 
 This repository is published under the [GNU V3](https://github.com/canopas/tailwind-animations/blob/master/LICENSE.md).

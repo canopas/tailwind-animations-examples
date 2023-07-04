@@ -12,10 +12,15 @@ import Clock from "./components/Clock.vue";
 import Wave from "./components/Wave.vue";
 import TwinCircle from "./components/TwinCircle.vue";
 import Pacman from "./components/Pacman.vue";
+import DoubleBouncyCircles from "./components/DoubleBouncyCircles.vue";
+import BouncyCircles from "./components/BouncyCircles.vue";
+import DottedSquare from "./components/DottedSquare.vue";
+import ForwardingArrow from "./components/ForwardingArrow.vue";
+import RotatingSquares from "./components/RotatingSquares.vue";
 </script>
 
 <template>
-  <div class="h-screen my-20 flex flex-wrap container m-16">
+  <div class="flex flex-wrap m-16">
     <RotateSquare class="wrapper" />
     <ProgressDots class="wrapper" />
     <JumpingHeart class="wrapper" />
@@ -29,9 +34,13 @@ import Pacman from "./components/Pacman.vue";
     <RotateCircle class="wrapper" />
     <Wave class="wrapper" />
     <TwinCircle class="wrapper" />
+    <DoubleBouncyCircles class="wrapper" />
+    <BouncyCircles class="wrapper" />
+    <DottedSquare class="wrapper" />
+    <ForwardingArrow class="wrapper" />
+    <RotatingSquares class="wrapper" />
   </div>
 </template>
-
 
 <style scoped lang="postcss">
 .wrapper {
