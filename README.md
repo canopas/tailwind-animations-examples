@@ -1,4 +1,4 @@
-# Tailwind Animations
+# Tailwind Animations Examples
 
 This repository contains different animations implemented using tailwind css.
 
