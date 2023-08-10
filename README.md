@@ -4,6 +4,8 @@ This repository contains different animations implemented using tailwind css.
 
 We keep building complex animations using tailwind css. Our goal is to build ready-to-use animation components.
 
+**Note:** This is **NOT component library**. You can copy and paste the code of animations directly from the given links.
+
 ## 🚀 [Showcase](https://play.tailwindcss.com/6MLUVcHDy0)
 
 <table>
@@ -11,113 +13,131 @@ We keep building complex animations using tailwind css. Our goal is to build rea
     <td align="center">
       <img src="https://github.com/canopas/tailwind-animations/blob/main/src/assets/images/rotate-square.gif" width="250px" height="250px">
       <br />
-      Rotate Square
+      <a href="https://github.com/canopas/tailwind-animations-examples/blob/main/src/components/RotateSquare.vue">
+      Rotate Square</a>
     </td>
     <td align="center">
       <img src="https://github.com/canopas/tailwind-animations/blob/main/src/assets/images/progress-dot.gif" width="250px" height="250px">
       <br />
-      Progress Dots
+      <a href="https://github.com/canopas/tailwind-animations-examples/blob/main/src/components/ProgressDots.vue">
+      Progress Dots</a>
     </td>
     <td align="center">
       <img src="https://github.com/canopas/tailwind-animations/blob/main/src/assets/images/heart.gif" width="250px" height="250px">
       <br />
-      Jumping Heart
+      <a href="https://github.com/canopas/tailwind-animations-examples/blob/main/src/components/JumpingHeart.vue">
+      Jumping Heart</a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://github.com/canopas/tailwind-animations/blob/main/src/assets/images/rotate-dot.gif" width="250px" height="250px">
       <br />
-      Rotate Dot
+      <a href="https://github.com/canopas/tailwind-animations-examples/blob/main/src/components/RotateDot.vue">
+      Rotate Dot</a>
     </td>
     <td align="center">
       <img src="https://github.com/canopas/tailwind-animations/blob/main/src/assets/images/pacman.gif" width="250px" height="250px">
       <br />
-      Pacman
+      <a href="https://github.com/canopas/tailwind-animations-examples/blob/main/src/components/Pacman.vue">
+      Pacman</a>
     </td>
     <td align="center">
       <img src="https://github.com/canopas/tailwind-animations/blob/main/src/assets/images/three-bounce.gif" width="250px" height="250px">
       <br />
-      Three Bounce
+      <a href="https://github.com/canopas/tailwind-animations-examples/blob/main/src/components/ThreeBounce.vue">
+      Three Bounce</a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://github.com/canopas/tailwind-animations/blob/main/src/assets/images/arc-rotation.gif" width="250px" height="250px">
       <br />
-      Arc Rotation
+      <a href="https://github.com/canopas/tailwind-animations-examples/blob/main/src/components/ArcRotation.vue">
+      Arc Rotation</a>
     </td>
     <td align="center">
       <img src="https://github.com/canopas/tailwind-animations/blob/main/src/assets/images/rotate-two-dots.gif" width="250px" height="250px">
       <br />
-      Rotate Two Dots
+      <a href="https://github.com/canopas/tailwind-animations-examples/blob/main/src/components/RotateTwoDots.vue">
+      Rotate Two Dots</a>
     </td>
     <td align="center">
       <img src="https://github.com/canopas/tailwind-animations/blob/main/src/assets/images/square-fill.gif" width="250px" height="250px">
       <br />
-      Square Fill
+      <a href="https://github.com/canopas/tailwind-animations-examples/blob/main/src/components/SquareFill.vue">
+      Square Fill</a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://github.com/canopas/tailwind-animations/blob/main/src/assets/images/clock.gif" width="250px" height="250px">
       <br />
-      Clock
+      <a href="https://github.com/canopas/tailwind-animations-examples/blob/main/src/components/Clock.vue">
+      Clock</a>
     </td>
     <td align="center">
       <img src="https://github.com/canopas/tailwind-animations/blob/main/src/assets/images/rotate-circle.gif" width="250px" height="250px">
       <br />
-      Rotate Circle
+      <a href="https://github.com/canopas/tailwind-animations-examples/blob/main/src/components/RotateCircle.vue">
+      Rotate Circle</a>
     </td>
     <td align="center">
       <img src="https://github.com/canopas/tailwind-animations/blob/main/src/assets/images/wave.gif" width="250px" height="250px">
       <br />
-      Wave
+      <a href="https://github.com/canopas/tailwind-animations-examples/blob/main/src/components/Wave.vue">
+      Wave</a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://github.com/canopas/tailwind-animations/blob/main/src/assets/images/twin-circle.gif" width="250px" height="250px">
       <br />
-      Twin Circle
+      <a href="https://github.com/canopas/tailwind-animations-examples/blob/main/src/components/TwinCircle.vue">
+      Twin Circle</a>
     </td>
     <td align="center">
       <img src="https://github.com/canopas/tailwind-animations/blob/main/src/assets/images/double-bouncy-circles.gif" width="250px" height="250px">
       <br />
-      Double Bouncy Circles
+      <a href="https://github.com/canopas/tailwind-animations-examples/blob/main/src/components/DoubleBouncyCircles.vue">
+      Double Bouncy Circles</a>
     </td>
     <td align="center">
       <img src="https://github.com/canopas/tailwind-animations/blob/main/src/assets/images/bouncy-circles.gif" width="250px" height="250px">
       <br />
-      Bouncy Circles
+      <a href="https://github.com/canopas/tailwind-animations-examples/blob/main/src/components/BouncyCircles.vue">
+      Bouncy Circles</a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://github.com/canopas/tailwind-animations/blob/main/src/assets/images/dotted-square.gif" width="250px" height="250px">
       <br />
-      Dotted Square
+      <a href="https://github.com/canopas/tailwind-animations-examples/blob/main/src/components/DottedSquare.vue">
+      Dotted Square</a>
     </td>
     <td align="center">
       <img src="https://github.com/canopas/tailwind-animations/blob/main/src/assets/images/arrow-forward.gif" width="250px" height="250px">
       <br />
-      Forwarding Arrow
+      <a href="https://github.com/canopas/tailwind-animations-examples/blob/main/src/components/ForwardingArrow.vue">
+      Forwarding Arrow</a>
     </td>
     <td align="center">
       <img src="https://github.com/canopas/tailwind-animations/blob/main/src/assets/images/rotating-squares.gif" width="250px" height="250px">
       <br />
-      Double Squares
+      <a href="https://github.com/canopas/tailwind-animations-examples/blob/main/src/components/RotatingSquares.vue">
+      Rotating Two Squares</a>
     </td>
   </tr>
 </table>
 
 # Bugs and Feedback
 
-For bugs, questions and discussions please use the [Github Issues](https://github.com/canopas/tailwind-animations/issues).
+For bugs, questions, and discussions please use the [Github Issues](https://github.com/canopas/tailwind-animations/issues).
 
 # Credits
 
-This repository owned and maintained by the [Canopas team](https://canopas.com/). You can follow them on Twitter at [@canopassoftware](https://twitter.com/canopassoftware) for project updates and releases.
+This repository is owned and maintained by the [Canopas team](https://canopas.com/). You can follow them on Twitter at [@canopassoftware](https://twitter.com/canopassoftware) for project updates and releases.
 
 # Licence
 
