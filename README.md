@@ -131,6 +131,20 @@ We keep building complex animations using tailwind css. Our goal is to build rea
       Rotating Two Squares</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/canopas/tailwind-animations/blob/main/src/assets/images/line-wave.gif" width="250px" height="250px">
+      <br />
+      <a href="https://github.com/canopas/tailwind-animations-examples/blob/main/src/components/LineWave.vue">
+      Line Wave</a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/canopas/tailwind-animations/blob/main/src/assets/images/triangle-swapping-dots.gif" width="250px" height="250px">
+      <br />
+      <a href="https://github.com/canopas/tailwind-animations-examples/blob/main/src/components/TriangleSwappingDots.vue">
+      Triangle Swapping Dots</a>
+    </td>
+  </tr>
 </table>
 
 # Bugs and Feedback

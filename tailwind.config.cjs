@@ -24,6 +24,17 @@ module.exports = {
             opacity: 1,
           },
         },
+        // line-wave
+        "line-wave": {
+          "0%, 100%": {
+            transform: "scaleY(0.5)",
+            opacity: 0.5,
+          },
+          "50%": {
+            transform: "scaleY(2)",
+            opacity: 1,
+          },
+        },
         // rotate dot in circle
         circle: {
           "0%": {
@@ -85,10 +96,34 @@ module.exports = {
         // heart jumping
         "jump-heart": {
           "0%, 100%": {
-            transform: "translateY(-30px)rotate(45deg) ",
+            transform: "translateY(-30px)rotate(45deg)",
           },
           "50%": {
             transform: "translateY(0px)rotate(45deg) ",
+          },
+        },
+        "swapping-middle": {
+          "0%": {
+            transform: "translateY(-40px)",
+          },
+          "100%": {
+            transform: "translate(40px, 40px)",
+          },
+        },
+        "swapping-left": {
+          "0%": {
+            transform: "translate(40px, 40px)",
+          },
+          "100%": {
+            transform: "translate(-40px, 40px)",
+          },
+        },
+        "swapping-right": {
+          "0%": {
+            transform: "translate(-40px, 40px)",
+          },
+          "100%": {
+            transform: "translateY(-40px)",
           },
         },
         line: {
@@ -190,6 +225,14 @@ module.exports = {
 
         //three-bounce
         "three-bounce": "three-bounce 1s ease-in-out infinite",
+
+        //line-wave
+        "line-wave": "line-wave 1s ease-in-out infinite",
+
+        // Swapping Dots
+        "swapping-middle": "swapping-middle 1s ease-in-out infinite",
+        "swapping-left": "swapping-left 1s ease-in-out infinite",
+        "swapping-right": "swapping-right 1s ease-in-out infinite",
 
         // rotate dot in circle
         circle: "circle 2s ease-in-out infinite",

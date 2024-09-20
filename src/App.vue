@@ -17,6 +17,8 @@ import BouncyCircles from "./components/BouncyCircles.vue";
 import DottedSquare from "./components/DottedSquare.vue";
 import ForwardingArrow from "./components/ForwardingArrow.vue";
 import RotatingSquares from "./components/RotatingSquares.vue";
+import LineWaves from "./components/LineWaves.vue";
+import TriangleSwappingDots from "./components/TriangleSwappingDots.vue";
 </script>
 
 <template>
@@ -39,6 +41,8 @@ import RotatingSquares from "./components/RotatingSquares.vue";
     <DottedSquare class="wrapper" />
     <ForwardingArrow class="wrapper" />
     <RotatingSquares class="wrapper" />
+    <LineWaves class="wrapper" />
+    <TriangleSwappingDots class="wrapper" />
   </div>
 </template>
 
