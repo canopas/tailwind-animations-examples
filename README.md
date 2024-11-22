@@ -153,7 +153,7 @@ For bugs, questions, and discussions please use the [Github Issues](https://gith
 
 # Credits
 
-This repository is owned and maintained by the [Canopas team](https://canopas.com/). You can follow them on Twitter at [@canopassoftware](https://twitter.com/canopassoftware) for project updates and releases.
+This repository is owned and maintained by the [Canopas team](https://canopas.com/). You can follow them on X at [@canopas_eng](https://x.com/canopas_eng) for project updates and releases.
 
 <a href="https://canopas.com/contact"><img src="./assets/cta.png" width=300></a>
 
